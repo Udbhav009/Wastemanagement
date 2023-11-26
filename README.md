@@ -1,2 +1,2 @@
 # Wastemanagement
-MY Wastemanagement from COMPLETE Web Development Course
+My Wastemanagement from complet Web Development Course
